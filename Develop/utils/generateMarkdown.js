@@ -33,7 +33,8 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## Description
-  ${renderLicenseBadge(data.license)}
+  ${renderLicenseBadge(data.license)}\n
+  
   ${data.description}
 
   ## Table of Contents
