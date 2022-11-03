@@ -30,7 +30,7 @@ In order to run this  application, the user must install theinquirer package. Th
 
 ## Usage
 - [!Video](./Develop/utils/Untitled_%20Nov%203%2C%202022%201_09%20PM.webm)
-
+- [!GIF](./Develop/utils/Untitled_%20Nov%203%2C%202022%201_09%20PM.gif)
 ## Credits
 Starter Code acquired from: - [!Starter Code](https://github.com/coding-boot-camp/potential-enigma)
 
